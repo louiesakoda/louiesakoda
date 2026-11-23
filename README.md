@@ -13,9 +13,9 @@ I design AI products, and I build them.
 
 Most of my work lives in private repos. Two public ones:
 
-- [**louie-portfolio**](https://github.com/trulou1028/louie-portfolio): the code
+- [**louie-portfolio**](https://github.com/louiesakoda/louie-portfolio): the code
   behind louiesakoda.com, with an AI assistant grounded in an evidence index.
-- [**neuron-shift**](https://github.com/trulou1028/neuron-shift): an exploratory
+- [**neuron-shift**](https://github.com/louiesakoda/neuron-shift): an exploratory
   prototype for AI-assisted shift handoff in data center operations. All data
   is simulated.
 
